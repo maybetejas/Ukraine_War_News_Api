@@ -1,1 +1,5 @@
 node-modules
+
+#make sure you have node js installed on your pc
+#open the project directory and run npm init to get all the dependencies installed
+#to run the project use the commmand npm start dev in the terminal
