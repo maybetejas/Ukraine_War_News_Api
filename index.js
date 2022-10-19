@@ -14,7 +14,7 @@ const sites = [
     {
         name: 'BBC',
         address: 'https://www.bbc.com/news/world-60525350',
-        base: 'https://www.bbc.com'
+        base: 'https://www.bbc.com' 
     },
     {
         name: 'The Guardian',
